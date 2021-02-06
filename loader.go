@@ -76,7 +76,6 @@ func getDuration(d string) time.Duration {
 	if e != nil {
 		duration = 1
 	}
-	fmt.Println(duration)
 	switch d[len(d)-1] {
 	case 's':
 		return time.Duration(duration) * time.Second
