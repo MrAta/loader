@@ -6,7 +6,7 @@ To build:
 make build
 ```
 
-To run sampel tests:
+To run sample tests:
 
 ```bash
 make run
