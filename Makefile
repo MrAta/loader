@@ -7,3 +7,4 @@ run:
 
 clean:
 	rm -rf loader
+	rm -rf *.log
